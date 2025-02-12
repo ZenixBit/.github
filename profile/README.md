@@ -1,6 +1,8 @@
-## Hi there 👋
+# Zenix Bit
+ZenixBit: Where innovation meets technology—shaping the future with cutting-edge software solutions.
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
