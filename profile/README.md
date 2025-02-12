@@ -1,4 +1,4 @@
-# Zenix Bit
+# <img src="../ZenixBit.jpg" alt="ZenixBit Logo" width="35"> Zenix Bit
 ZenixBit: Where innovation meets technology—shaping the future with cutting-edge software solutions.
 
 <!--
